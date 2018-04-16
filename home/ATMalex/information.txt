@@ -1,0 +1,4 @@
+TYPE = NORMAL
+NAME = alex
+NICK = alex
+LOCK = 3

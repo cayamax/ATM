@@ -1,0 +1,102 @@
+ADMIN_MAIN
+    0.MAIN
+    1.user login
+    2.news1
+    3.news2
+    4.news3
+    5.
+    6.
+    7.
+    8.exit
+
+ADMIN_SUBTITLE1
+0.SUBTITLE1
+    1.hahaha
+    2.SUBTITLE2
+    3.
+    4.
+    5.back
+    6.home
+    7.
+    8.exit
+
+
+ADMIN_SUBTITLE2
+0.SUBTITLE2
+    1.
+    2.
+    3.
+    4.
+    5.back
+    6.home
+    7.user logout
+    8.exit
+
+
+ADMIN_SUBTITLE3
+0.SUBTITLE3
+    1.option1
+    2.option2
+    3.option3
+    4.option4
+    5.back
+    6.home
+    7.user logout
+    8.exit
+
+
+ADMIN_SUBTITLE4
+0.SUBTITLE4
+    1.option1
+    2.option2
+    3.option3
+    4.option4
+    5.back
+    6.home
+    7.user logout
+    8.exit
+
+
+ADMIN_SUBTITLE5
+0.SUBTITLE5
+    1.option1
+    2.option2
+    3.option3
+    4.option4
+    5.back
+    6.home
+    7.user logout
+    8.exit
+
+ADMIN_SUBTITLE6
+0.SUBTITLE6
+    1.option1
+    2.option2
+    3.option3
+    4.option4
+    5.back
+    6.home
+    7.user logout
+    8.exit
+
+ADMIN_SUBTITLE7
+0.SUBTITLE7
+    1.option1
+    2.option2
+    3.option3
+    4.option4
+    5.option5
+    6.option6
+    7.back
+    8.home
+
+ADMIN_SUBTITLE8
+0.SUBTITLE8
+    1.option1
+    2.option2
+    3.option3
+    4.option4
+    5.option5
+    6.option6
+    7.back
+    8.home

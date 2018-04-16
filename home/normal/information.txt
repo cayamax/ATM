@@ -1,0 +1,4 @@
+TYPE = NORMAL
+NAME = normal
+NICK = normal
+LOCK = 999

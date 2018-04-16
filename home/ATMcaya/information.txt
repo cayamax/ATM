@@ -1,0 +1,4 @@
+TYPE = NORMAL
+NAME = caya
+NICK = cdddd
+LOCK = 3

@@ -1,0 +1,5 @@
+
+TYPE = ADMIN
+NAME = admin
+NICK = su_caya
+LOCK = 999

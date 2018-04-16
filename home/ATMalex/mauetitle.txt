@@ -1,0 +1,100 @@
+NORMAL_MAIN
+    0.MAIN
+    1.savings account
+    2.credit card account
+    3.show user logs
+    4.reset password
+    5.reset nickname
+    6.
+    7.user logout
+    8.exit
+
+
+NORMAL_SAVINGS_MAUE
+0.savings account
+    1.draw
+    2.deposit
+    3.transfer
+    4.show balance
+    5.back
+    6.home
+    7.user logout
+    8.exit
+
+
+NORMAL_CRADIT_CARD_MAUE
+0.credit card account
+    1.bills
+    2.repay now
+    3.credit card settings
+    4.
+    5.back
+    6.home
+    7.user logout
+    8.exit
+
+NORMAL_DRAW_MAUE
+0.draw maue
+    1.draw(USD)
+    2.draw(RMB)
+    3.
+    4.
+    5.back
+    6.home
+    7.user logout
+    8.exit
+
+NORMAL_DEPOSIT_MAUE
+0.deposit maue
+    1.deposit(USD)
+    2.deposit(RMB)
+    3.
+    4.
+    5.back
+    6.home
+    7.user logout
+    8.exit
+
+NORMAL_TRANSFER_MAUE
+0.transfer maue
+    1.transfer(USD)
+    2.transfer(RMB)
+    3.
+    4.
+    5.back
+    6.home
+    7.user logout
+    8.exit
+
+NORMAL_CRADIT_CARD_BILL
+0.show cerrent bills
+    1.current bill(RMB)
+    2.current bill(USD)
+    3.
+    4.
+    5.back
+    6.home
+    7.user logout
+    8.exit
+
+NORMAL_CRADIT_CARD_SETTINGS
+0.show cerrent bills
+    1.set bill accout day
+    2.set repay account
+    3.
+    4.
+    5.back
+    6.home
+    7.user logout
+    8.exit
+
+NORMAL_REPAY_NOW
+0.select the account
+    1.repay USD account
+    2.repay RMB account
+    3.
+    4.
+    5.back
+    6.home
+    7.user logout
+    8.exit

@@ -1,0 +1,22 @@
+ADMIN_MAIN
+    0.MAIN
+    1.add user
+    2.set user limit
+    3.freeze user
+    4.unlock user
+    5.views
+    6.reset n_user password
+    7.user logout
+    8.exit
+
+ADMIN_VIEWS
+0.views
+    1.transaction records
+    2.account information tab
+    3.
+    4.
+    5.back
+    6.home
+    7.user logout
+    8.exit
+

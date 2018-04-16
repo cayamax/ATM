@@ -1,0 +1,7 @@
+
+fake credit limit
+CREDIT_LIMIT_RMB = 0
+CREDIT_LIMIT_USD = 0
+TOTAL_LIMIT_RMB = 0
+TOTAL_LIMIT_USD = 0
+
